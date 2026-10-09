@@ -9,7 +9,7 @@ public class Switch {
                 System.out.println("i is equals to 20");
                 break;
             default:
-                System.out.println("i is not equals to 10 or 20");
+                System.out.println("i is not equals to 10 or 20"); 
         }
     }
 }
